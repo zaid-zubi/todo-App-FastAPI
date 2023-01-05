@@ -1,5 +1,5 @@
-# fast-todo
-This is a MVC fastapi todo app 
+# fast-todo app
+
 
 * User can add , update , delete todo , get all todos , update status of one todo.
 
