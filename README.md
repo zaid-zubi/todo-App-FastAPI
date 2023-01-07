@@ -15,4 +15,6 @@ py -m venv venv
 uvicorn app.main:app --reload
 
 - Note : Enter your database URL in SQLALCHEMY_DATABASE_URL
+
+
 SQLALCHEMY_DATABASE_URL = "postgresql://username:password@localhost:5432/DBname"
